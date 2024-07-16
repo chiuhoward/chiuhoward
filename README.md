@@ -4,6 +4,11 @@ I'm a PhD student in the Yeatman Brain Development and Education Lab.
 As a PhD student, I will aim to marry education and neuroscience, while working with transdiagnostic longitudinal neuroimaging methods to understand developmental trajectories of individuals and their response to interventions. 
 
 My coding skills are extremely basic, but I am looking to develop proficiency in Python and R.
+
+Current CS coursework at Stanford:
+- CS 106A: Programming Methodology
+- CS 432: Computer Vision for Education and Social Science Research
+
 <!--
 **chiuhoward/chiuhoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
