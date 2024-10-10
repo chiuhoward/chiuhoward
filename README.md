@@ -7,6 +7,7 @@ My coding skills are extremely basic, but I am looking to develop proficiency in
 
 Current CS coursework at Stanford:
 - CS 106A: Programming Methodology
+- CS 106B: Programming Abstractions
 - CS 432: Computer Vision for Education and Social Science Research
 
 <!--
